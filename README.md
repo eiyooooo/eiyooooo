@@ -1,16 +1,16 @@
-## Hi there 👋
+## Kaiming Hu [![Email](https://img.shields.io/badge/Email-huxxx1234@gmail.com-blue)](mailto:huxxx1234@gmail.com)
 
-<!--
-**eiyooooo/eiyooooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=eiyooooo&theme=dark&show_icons=true">
+    <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=eiyooooo&show_icons=true" alt="eiyooooo">
+</picture>
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=eiyooooo&theme=dark&show_icons=true&layout=compact">
+    <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=eiyooooo&show_icons=true&layout=compact" alt="eiyooooo">
+</picture>
 
-Here are some ideas to get you started:
+- 🏫 Undergraduate Student from China
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✏️ Proficient in Kotlin, Java, and Python
+
+- 🤝 Open to Internship and job opportunities, especially in Android automotive application development
