@@ -4,10 +4,6 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=eiyooooo&theme=dark&show_icons=true">
     <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=eiyooooo&show_icons=true" alt="eiyooooo">
 </picture>
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=eiyooooo&theme=dark&show_icons=true&layout=compact">
-    <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=eiyooooo&show_icons=true&layout=compact" alt="eiyooooo">
-</picture>
 
 - 🏫 Undergraduate Student from China
 
