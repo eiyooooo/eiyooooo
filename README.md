@@ -5,8 +5,10 @@
     <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=eiyooooo&show_icons=true" alt="eiyooooo">
 </picture>
 
-- 🏫 Undergraduate Student from China
-
 - ✏️ Proficient in Kotlin, Java, and Python
 
 - 🤝 Open to Internship and job opportunities, especially in Android automotive application development
+
+## 📊 Weekly development breakdown
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
