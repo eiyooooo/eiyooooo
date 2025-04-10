@@ -11,4 +11,13 @@
 
 ## 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
+
+```txt
+Kotlin                 24 hrs 8 mins   ██████████████▒░░░░░░░░░░   57.38 %
+Java                   11 hrs 13 mins  ██████▓░░░░░░░░░░░░░░░░░░   26.69 %
+XML                    2 hrs 3 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.89 %
+C++                    2 hrs           █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 %
+Markdown               46 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
+```
+
 <!--END_SECTION:waka-->
