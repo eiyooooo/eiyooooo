@@ -17,8 +17,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown          41 mins         ███████████████████░░░░░░   75.60 %
-Protocol Buffer   13 mins         ██████░░░░░░░░░░░░░░░░░░░   24.40 %
+Markdown          41 mins         ██████████████████▓░░░░░░   75.02 %
+Protocol Buffer   13 mins         ██████░░░░░░░░░░░░░░░░░░░   24.21 %
+Kotlin            0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
+XML               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Java              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
