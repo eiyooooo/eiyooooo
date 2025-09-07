@@ -17,11 +17,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin                 34 mins         ████████████▒░░░░░░░░░░░░   49.77 %
-Groovy                 16 mins         ██████░░░░░░░░░░░░░░░░░░░   24.05 %
-Java                   15 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.48 %
-Gradle                 2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
-Markdown               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
