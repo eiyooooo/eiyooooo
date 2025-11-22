@@ -9,7 +9,7 @@
 
 - ✏️ Proficient in Kotlin, Java, and Python, with a foundational understanding of Flutter and C++.  
 
-- 🤝 Actively seeking internship and job opportunities, especially in Android development.
+- 🧰 Building tools for device communication, including ADB-related utilities and connectivity workflows, with a growing focus on enhancing developer productivity.
 
 <br/>
 
