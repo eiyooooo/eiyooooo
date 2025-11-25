@@ -17,11 +17,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin                 5 hrs 42 mins   ██████████████▒░░░░░░░░░░   57.22 %
-Markdown               2 hrs 23 mins   ██████░░░░░░░░░░░░░░░░░░░   24.04 %
-XML                    31 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 %
-TypeScript             19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
-Android RenderScript   16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
+Kotlin                 6 hrs 22 mins   █████████████▓░░░░░░░░░░░   54.59 %
+Markdown               2 hrs 55 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.11 %
+XML                    31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 %
+Android RenderScript   28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 %
+TypeScript             19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
 ```
 
 <!--END_SECTION:waka-->
