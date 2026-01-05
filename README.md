@@ -17,10 +17,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin     17 mins         ██████████████████████▓░░   90.01 %
-XML        1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.75 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
-Java       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
