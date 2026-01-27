@@ -17,11 +17,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Gradle                 14 mins         █████████████░░░░░░░░░░░░   51.51 %
-Groovy                 5 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.76 %
-Kotlin                 3 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.18 %
-GitIgnore file         1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
-Properties             0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
