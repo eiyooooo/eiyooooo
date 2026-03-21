@@ -17,8 +17,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TOML     13 mins               ████████████████████████▓   98.88 %
-Kotlin   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
