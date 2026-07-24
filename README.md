@@ -17,11 +17,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin                 1 hr 20 mins          ████████████▒░░░░░░░░░░░░   49.91 %
-YAML                   1 hr 4 mins           ██████████░░░░░░░░░░░░░░░   39.75 %
-Bash                   11 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 %
-XML                    3 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
-Markdown               0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
