@@ -17,7 +17,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Markdown               0 secs                ██████████████████████░░░   88.01 %
+Text                   0 secs                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.66 %
+HTML                   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+Android RenderScript   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+TOML                   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
 ```
 
 <!--END_SECTION:waka-->
