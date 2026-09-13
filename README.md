@@ -17,11 +17,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin                 35 mins               ██████████████████░░░░░░░   72.61 %
-Other                  13 mins               ███████░░░░░░░░░░░░░░░░░░   27.36 %
-Android RenderScript   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-GitIgnore file         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-XML                    0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
